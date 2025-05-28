@@ -1,3 +1,4 @@
+<!-- -*- coding: utf-8 -*- -->
 # STM32 解析PGModbus协议并结算标签坐标
 ## 基站的摆放注意事项
 ![anchors place](./anchors.drawio.png)  
